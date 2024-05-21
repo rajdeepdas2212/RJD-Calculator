@@ -59,7 +59,7 @@ input.display{
     background: transparent; 
 }
 ::placeholder{
-    color: #ffffff;
+    color: #333;
 }
 button.numbers{
     color: #ffffff;
