@@ -58,8 +58,9 @@ input.display{
     color: #ffffff;
     background: transparent; 
 }
-::placeholder{
+input::placeholder{
     color: #333;
+    font-weight: bold;
 }
 button.numbers{
     color: #ffffff;
